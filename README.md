@@ -75,12 +75,13 @@ Happy coding and stay inspired! 🎉🚀✨
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mriganshu16&layout=compact&theme=radical&hide_border=true)
 
-[![Mriganshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mriganshu16&theme=dracula)](https://github.com/mriganshu16/github-readme-activity-graph)
+[![Mriganshu's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mriganshu16&theme=dracula&bg_color=000000&color=70A1FF&line=70A1FF&point=FFFFFF)](https://github.com/mriganshu16/github-readme-activity-graph)
 
-<a href="https://github.com/mriganshu16">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mriganshu16&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mriganshu16&theme=tokyonight" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mriganshu16&show_icons=true&theme=tokyonight&title_color=70A1FF&text_color=FFFFFF&bg_color=000000" alt="Mriganshu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mriganshu16&theme=tokyonight&background=000000" alt="GitHub Streak" width="48%" />
+</div>
+
 
 
 # Recent Activity :zap:
