@@ -89,17 +89,6 @@ Presenting My Work: Explore My Dynamic Portfolio of Projects and Contributions!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mriganshu16&theme=tokyonight&background=000000" alt="GitHub Streak" width="48%" />
 </div>
 
-### GitHub Repository Cards
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mriganshu16&repo=Data-Science-Masters&theme=radical)](https://github.com/mriganshu16/Data-Science-Masters) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mriganshu16&repo=DSA&theme=radical)](https://github.com/mriganshu16/DSA)
-
-
-
-...
-
-
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
