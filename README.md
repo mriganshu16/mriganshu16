@@ -27,6 +27,7 @@ Happy coding and stay inspired! 🎉🚀✨
 
 
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&logoWidth=40&label=&labelColor=grey)](https://facebook.com/mriganshu.bora) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoWidth=40&label=&labelColor=grey)](https://instagram.com/mriganshubora) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40&label=&labelColor=grey)](https://linkedin.com/in/mriganshubora) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white&logoWidth=40&label=&labelColor=grey)](https://quora.com/profile/mriganshubora) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&logoWidth=40&label=&labelColor=grey)](https://twitter.com/mrigansgy)
 
@@ -67,11 +68,18 @@ Happy coding and stay inspired! 🎉🚀✨
 
 
 # 📊 GitHub Stats:
+Presenting My Work: Explore My Dynamic Portfolio of Projects and Contributions!
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mriganshu16&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=stars,contribs&bg_color=000000)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mriganshu16&theme=radical&hide_border=true&background=000000)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mriganshu16&theme=radical&hide_border=true&background=000000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mriganshu16&layout=compact&theme=radical&hide_border=true&bg_color=000000)
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriganshu16&layout=compact&theme=radical&hide_border=true&bg_color=000000" alt="Top Languages">
+</p>
 
 
 [![Mriganshu's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mriganshu16&theme=dracula&bg_color=000000&color=70A1FF&line=70A1FF&point=FFFFFF)](https://github.com/mriganshu16/github-readme-activity-graph)
@@ -91,7 +99,10 @@ Happy coding and stay inspired! 🎉🚀✨
 
 ### 🔝 Top Contributed Repo
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mriganshu16&limit=5&theme=dark&bg_color=0D1117&text_color=EEF0F1&title_color=58A6FF&hide_border=true&combine_all_yearly_contributions=true)
+    <a href="https://github.com/mriganshu16">
+      <img src="https://github-contributor-stats.vercel.app/api?username=mriganshu16&limit=5&theme=dark&bg_color=0D1117&text_color=EEF0F1&title_color=58A6FF&hide_border=true&border_color=58A6FF&border_radius=10&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+    </a>
+  </p>
 
 
 
