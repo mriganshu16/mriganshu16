@@ -82,7 +82,9 @@ Presenting My Work: Explore My Dynamic Portfolio of Projects and Contributions!
 ## Recent articles on Hashnode
 
 <!-- BLOG-POST-LIST:START -->
-https://mriganshu16.hashnode.dev/building-a-cat-photo-app-an-html-beginners-guide
+[![Building a Cat Photo App: An HTML Beginner's Guide](https://img.shields.io/badge/Read%20Blog%20(1)-Building%20a%20Cat%20Photo%20App:%20An%20HTML%20Beginner's%20Guide-%236f42c1)](https://mriganshu16.hashnode.dev/building-a-cat-photo-app-an-html-beginners-guide)
+
+
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -105,4 +107,3 @@ https://mriganshu16.hashnode.dev/building-a-cat-photo-app-an-html-beginners-guid
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
