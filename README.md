@@ -79,7 +79,7 @@ Presenting My Work: Explore My Dynamic Portfolio of Projects and Contributions!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mriganshu16&theme=tokyonight&background=000000" alt="GitHub Streak" width="48%" />
 </div>
 
-## Recent articles on Hashnode
+## Recent articles on [Hashnode](https://mriganshu16.hashnode.dev/)
 
 <!-- BLOG-POST-LIST:START -->
 [![Building a Cat Photo App: An HTML Beginner's Guide](https://img.shields.io/badge/Read%20Blog%20(1)-Building%20a%20Cat%20Photo%20App:%20An%20HTML%20Beginner's%20Guide-%236f42c1)](https://mriganshu16.hashnode.dev/building-a-cat-photo-app-an-html-beginners-guide)
