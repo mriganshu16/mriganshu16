@@ -92,7 +92,6 @@ Presenting My Work: Explore My Dynamic Portfolio of Projects and Contributions!
 ## Recent articles on Hashnode
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 
