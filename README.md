@@ -82,6 +82,7 @@ Presenting My Work: Explore My Dynamic Portfolio of Projects and Contributions!
 ## Recent articles on Hashnode
 
 <!-- BLOG-POST-LIST:START -->
+https://mriganshu16.hashnode.dev/building-a-cat-photo-app-an-html-beginners-guide
 <!-- BLOG-POST-LIST:END -->
 
 
