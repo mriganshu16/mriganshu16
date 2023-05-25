@@ -72,7 +72,8 @@ Presenting My Work: Explore My Dynamic Portfolio of Projects and Contributions!
 
 
 
-[![Mriganshu's GitHub Activity Graph][![Mriganshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mriganshu16&theme=dracula&bg_color=000000&color=70A1FF&line=70A1FF&point=FFFFFF)](https://github.com/mriganshu16/github-readme-activity-graph)
+[![Mriganshu's GitHub activity graph](https://github-readme-graph.vercel.app/api/graph?username=mriganshu16&bg_color=000000&color=70A1FF&line=70A1FF&point=FFFFFF)](https://github.com/mriganshu16)
+
 
 
 <div align="center">
