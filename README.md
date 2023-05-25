@@ -72,7 +72,8 @@ Presenting My Work: Explore My Dynamic Portfolio of Projects and Contributions!
 
 
 
-[![Mriganshu's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mriganshu16&theme=dracula&bg_color=000000&color=70A1FF&line=70A1FF&point=FFFFFF)](https://github.com/mriganshu16/github-readme-activity-graph)
+[![Mriganshu's GitHub Activity Graph][![Mriganshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mriganshu16&theme=dracula&bg_color=000000&color=70A1FF&line=70A1FF&point=FFFFFF)](https://github.com/mriganshu16/github-readme-activity-graph)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mriganshu16&show_icons=true&theme=tokyonight&title_color=70A1FF&text_color=FFFFFF&bg_color=000000" alt="Mriganshu's GitHub Stats" width="48%" />
